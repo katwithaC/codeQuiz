@@ -1,1 +1,1 @@
-# codeQuiz
+I created a multiple choice quiz using JavaScript and added a timer. JavaScript is important to programming because it allows users to be interactive with the web page. The interview process for getting a job in programming will entail a coding quiz.
